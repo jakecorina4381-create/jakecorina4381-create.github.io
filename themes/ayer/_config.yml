@@ -1,13 +1,12 @@
 # 侧边栏菜单
 menu:
   主页: /
-  归档: /archives
-  分类: /categories
-  标签: /tags
-  旅行: /tags/旅行/
-  摄影: /photos
-  友链: /friends
-  关于我: /2019/about
+  归档: /archives/
+  分类: /categories/
+  标签: /tags/
+  旅行: /travel/
+  摄影: /photos/
+  关于我: /about/
 
 # 站点次标题和打字动效
 # https://github.com/mattboldt/typed.js
@@ -99,7 +98,7 @@ rss: /atom.xml
 darkmode: true
 
 # 动态背景效果: 0-关闭，1-动态线条(跟随鼠标)
-canvas_bg: 0
+canvas_bg: 1
 
 # 自定义鼠标样式，直接替换/images/mouse.cur文件
 mouse:
@@ -159,7 +158,7 @@ mermaid:
   theme: forest
 
 # 网站成立年份(默认为 2019，若填入年份小于当前年份，则显示为 2018-2019 类似的格式)
-since: 2015
+since: 2026
 
 # ICP备案信息尾部显示
 icp:
